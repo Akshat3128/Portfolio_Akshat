@@ -446,17 +446,17 @@ a{
 }
 
 #project1 {
-  background-image: url(projects/Project1.png);
+  background-image: url(projects/Razorpay.png);
 }
 #project2 {
-  background-image: url(projects/Project2.png);
+  background-image: url(projects/tic-tac-toe.png);
   margin-left: 120px;
 }
 #project3 {
-  background-image: url(projects/Project3.png);
+  background-image: url(projects/detective.png);
 }
 #project4 {
-  background-image: url(projects/Project4.png);
+  background-image: url(projects/weather.png);
   margin-left: 120px;
 }
 
@@ -583,7 +583,8 @@ a{
   font-size: 80px;
 }
 .skill-subHeading {
-  margin-top: 1rem;
+  margin-top: 0.5rem;
+  font-size: large;
   width: 85%;
   text-align: justify;
 }
