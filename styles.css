@@ -129,6 +129,7 @@ a{
   cursor: pointer;
   transition: all 0.5s;
   font-weight: 500;
+  border-radius: 0.3rem;
   border: solid 3px transparent;
   position: relative;
   z-index: 1;
