@@ -454,10 +454,14 @@ a{
   margin-left: 120px;
 }
 #project3 {
-  background-image: url(projects/detective.png);
+  background-image: url(projects/E-Cart.png);
 }
 #project4 {
   background-image: url(projects/weather.png);
+  margin-left: 120px;
+}
+#project6 {
+  background-image: url(projects/StudyNotion.png);
   margin-left: 120px;
 }
 
